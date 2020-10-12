@@ -1,0 +1,226 @@
+#site{
+    width:1200px;
+    height:3320px;
+    margin-top:0;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-right: auto;
+    background-color: dimgrey;
+        
+}
+
+#header{
+    width: :1200px;
+    height:320px;
+    background-color: #EA9CA6;
+    
+}
+
+#header-left{
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+.imgRedonda{
+    width:280px;
+    height:280px;
+    border-radius: 140px;
+    
+}
+
+#header-right{
+    width: 800px;
+    height: 300px;
+    float: left;
+    
+}
+
+#empty{
+    width: 100px;
+    height: 300px;
+    float: left;
+}
+
+#texto-header{
+    width: 600px;
+    height:300px;
+    float: left;
+    
+}
+
+#body{
+    width: 1200px;
+    height: 2600px;
+    
+}
+
+
+#imgDes{
+    width: 1200px;
+    height: 432px;
+    background-image: url(piano.jpg)
+}
+
+#empty2{
+    width: 1200px;
+    height: 100px;
+}
+
+#empty3{
+    width: 300px;
+    height: 232px;
+    float:left;
+    
+}
+
+#text-img{
+    width: 600px;
+    height: 242px;
+    background-color: #FADCE7;
+    float:left;
+
+    
+}
+
+#cuerpo-left1{
+    width:800px;
+    height:550px; 
+    background: #EA6395;
+    float:left;
+    
+}
+
+#cuerpo-right1{
+    width: 400px;
+    height: 550px;
+    background-color: #EA9CA6;
+    float: left;
+    
+}
+
+#a{
+    width: 400px;
+    height: 78px;
+    background-color: #95526B;
+    
+}
+
+#b{
+    width: 400px;
+    height: 375px;
+    
+}
+
+#c{
+    width: 400px;
+    height: 78px;
+    background-color: #95526B;
+    
+}
+
+#cuerpo-left2{
+    width: 400px;
+    height:250px;
+    background-color: #A24B6A;
+    float: left;
+    
+}
+
+#cuerpo-right2{
+    width: 800px;
+    height:250px;
+    background-color: #F9BBD2;
+    float: left;
+    
+    
+}
+
+#horario{
+    width: 1200px;
+    height:320px;
+    background-color: #EA6395;
+    float:left;
+}
+
+#tvideo{
+    width: 1200px;
+    height: 80px;
+    background-color: #95526B;
+    float:left;
+    
+}
+
+#videos{
+    width: 1200px;
+    height: 500px;
+    background-color: #EA9CA6;
+    float: left;
+    
+}
+
+#video-left{
+    width: 800px;
+    height: 500px;
+    float: left;
+    
+}
+
+#video-right{
+    width: 400px;
+    height: 500px;
+    float: left;
+    
+}
+
+#tgaleria{
+    width: 1200px;
+    height: 80px;
+    background-color: #EA6395;
+    float:left;
+    
+}
+
+#galeria{
+    width: 1200px;
+    height: 370px;
+    background-color: #F9BBD2;
+    float: left;
+}
+
+
+#footer{
+    width: 1200px;
+    height: 370px;
+    background-color: #95526B;
+    float:left;
+
+}
+
+#foot-right{
+    width: 800px;
+    height: 320px;
+    float: left;
+    
+}
+
+#foot-left{
+    width: 400px;
+    height: 320px;
+    float:left;
+    
+}
+
+#copyr{
+    width: 1200px;
+    height: 50px;
+    float:left;
+    
+}
+
+
+
+
+
+
+
